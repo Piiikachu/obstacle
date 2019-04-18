@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1"
+               byte_order="LittleEndian"
+               compressor="vtkZLibDataCompressor">
+   <Collection>    
+    <DataSet timestep="110000" group="" part="0"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_0_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="1"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_1_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="2"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_2_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="3"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_3_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="4"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_4_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="5"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_5_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="6"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_6_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="7"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_7_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="8"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_8_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="9"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_9_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="10"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_10_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="11"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_11_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="12"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_12_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="13"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_13_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="14"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_14_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="15"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_15_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="16"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_16_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="17"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_17_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="18"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_18_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="19"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_19_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="20"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_20_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="21"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_21_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="22"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_22_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="23"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_23_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="24"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_24_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="25"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_25_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="26"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_26_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="27"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_27_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="28"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_28_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="29"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_29_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="30"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_30_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="31"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_31_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="32"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_32_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="33"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_33_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="34"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_34_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="35"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_35_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="36"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_36_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="37"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_37_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="38"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_38_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="39"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_39_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="40"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_40_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="41"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_41_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="42"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_42_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="43"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_43_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="44"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_44_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="45"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_45_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="46"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_46_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="47"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_47_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="48"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_48_110000.vtu"/>
+    <DataSet timestep="110000" group="" part="49"   
+             file="obs45-3-5-01_grid/obs45-3-5-01_grid_49_110000.vtu"/>
+   </Collection>    
+</VTKFile>    
